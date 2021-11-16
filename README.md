@@ -40,3 +40,4 @@ You are welcome to add any features that would fit this toolkit, but here are so
 - model cleanup nodes
 - ascii filter
 
+Feel free to request your idea by opening an issue above!
