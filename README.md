@@ -28,6 +28,7 @@ If you would like to contribute to this project, you can do the following:
 - Have helpful tooltips for every field
 - Have a simple title (the same title we'd use on the docs page)
 - Have "Fake User" enabled (little shield next to name)
+- Include an example file that clearly utilizes it, and renders to a factor of 600x300
 
 ## Feature Ideas
 
