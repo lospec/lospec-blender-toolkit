@@ -24,6 +24,12 @@ If you would like to contribute to this project, you can do the following:
 10. Describe your contributions, then click `Create pull request`.
 11. Wait for your contribution to be reviewed and merged into the repository. If we have any questions about your changes, we will leave a comment on your PR. 
 
+##### Please make sure any node groups you add:
+- Have helpful tooltips for every field
+- Have a simple title (the same title we'd use on the docs page)
+- Have "Fake User" enabled (little shield next to name)
+- Include an example file that clearly utilizes it, and renders to a factor of 600x300
+
 ## Feature Ideas
 
 You are welcome to add any features that would fit this toolkit, but here are some ideas we would love to have:
@@ -32,12 +38,11 @@ You are welcome to add any features that would fit this toolkit, but here are so
 - apply dithering to output
 - useful testing textures
 - import palettes from Lospec
-- voxelizer
 - sprite swapping (based on distance/angle of camera)
 - post-processing filters such as CRT
-- ps1 style effects like vertex jitter and texture warping
+- ps1 style texture warping
 - voxelization geometry nodes
 - model cleanup nodes
 - ascii filter
 
-Feel free to request your idea by opening an issue above!
+Feel free to request your idea by opening an issue!
